@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayada Almobayed</h1>
 <h3 align="center">A Fluttter developer from Palestine</h3>
 
-
-<p align="left"> <a href="https://twitter.com/dev_mayada" target="blank"><img src="https://img.shields.io/twitter/follow/dev_mayada?logo=twitter&style=for-the-badge" alt="dev_mayada" /></a> </p>
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abedmayada4@gmail.com**
