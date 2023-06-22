@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayada Almobayed</h1>
-<h3 align="center">A Fluttter developer from Palestine</h3>
+<h3 align="center">A Fluttter developer</h3>
 
 - 💬 Ask me about **Flutter**
 
